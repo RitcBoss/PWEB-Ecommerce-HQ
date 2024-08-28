@@ -9,7 +9,7 @@ body{
     position: relative;
     visibility:visible;
 }
-html{
+body,html{
     overflow-x: hidden;
 }
 
