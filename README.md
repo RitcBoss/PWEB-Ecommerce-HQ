@@ -1,6 +1,8 @@
 
 # T-shirt Shop Ecommerce Project
 
+readme_content_tshirt_with_link = "https://ecommerce-hq-tshrit.vercel.app/"
+
 ## Description
 This project is designed to practice programming skills and apply modern web development technologies by building an eCommerce platform for a T-shirt shop. It allows users to browse products, add them to a shopping cart, and manage their cart. You can follow the original tutorial on [YouTube](https://www.youtube.com/watch?v=y99YgaQjgx4&t=6s).
 
